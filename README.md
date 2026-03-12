@@ -117,21 +117,19 @@ Graphs are plotted to visualize the training and validation results.
 
 ### Step 1: Clone the Repository
 
-```
+
 git clone https://github.com/mohammedajmalkondambath-ux/real-fake-face-detection.git.
-```
+
 
 ### Step 2: Install Required Libraries
 
-```
 pip install tensorflow numpy matplotlib scikit-learn pillow
-```
+
 
 ### Step 3: Run the Notebook
 
 Open the Jupyter Notebook and run:
 
-```
 cnn_real_vs_fake_face_detection.ipynb
 ```
 
