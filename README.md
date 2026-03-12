@@ -118,7 +118,7 @@ Graphs are plotted to visualize the training and validation results.
 ### Step 1: Clone the Repository
 
 ```
-git clone https://github.com/mohammedajmalkondambath-ux / CNN-PROJECT.git
+git clone https://github.com/mohammedajmalkondambath-ux/CNN-PROJECT.git
 ```
 
 ### Step 2: Install Required Libraries
